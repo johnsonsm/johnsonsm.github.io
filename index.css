@@ -10,6 +10,7 @@ a {
 h1 {
   color: white;
   opacity: .1.0;
+  text-align: center;
 }
 p {
   color: black;
@@ -88,9 +89,5 @@ h2 {
 
   .right {
     overflow: visible;
-  }
-
-  h1 {
-    text-align: center;
   }
 }
